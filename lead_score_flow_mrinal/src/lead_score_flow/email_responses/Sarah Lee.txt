@@ -1,0 +1,17 @@
+Subject: CrewAI - [Job Title] Application Follow Up
+
+Dear Sarah,
+
+Thank you again for your interest in the [Job Title] position at CrewAI. We were very impressed by your self-taught development background and the impressive projects showcased in your portfolio, especially your fully responsive personal blog and task manager app built using React and Next.js. 
+
+It's clear you possess a strong foundation in relevant technologies and a passion for problem-solving, which aligns perfectly with our team's culture.
+
+We'd love to learn more about your experience and see if there's a great fit at CrewAI. Would you be available for a brief Zoom call sometime within the next few days? Please let me know what days and times work best for you.
+
+We look forward to connecting soon!
+
+Sincerely,
+
+Sarah
+HR Coordinator
+CrewAI

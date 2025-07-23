@@ -1,0 +1,15 @@
+Subject: CrewAI - Application Update
+
+Dear John,
+
+Thank you for your interest in the Junior Developer position at CrewAI and for taking the time to apply. We appreciate you sharing your background and skills with us.
+
+While your enthusiasm for front-end development impressed us, we've decided to move forward with other candidates whose experience more closely aligns with the specific requirements of this role.
+
+We wish you the best of luck in your job search and encourage you to keep an eye on our careers page for future opportunities that might be a good fit.
+
+Sincerely,
+
+Sarah
+HR Coordinator
+CrewAI
